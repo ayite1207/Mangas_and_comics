@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "f214668f2a15cb5eb47dfd3433da7da7ddc13d261e6b4495f3b03ba2394080d0"
+build_start_time: [1673470700, 596698045]
+build_end_time: [1673470701, 76845169]
+inputs:
+  "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/MangasAndComics/ContentView.swift": [1673470688, 909601688]
+  "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/MangasAndComics/MangasAndComicsApp.swift": [1673470688, 901986122]

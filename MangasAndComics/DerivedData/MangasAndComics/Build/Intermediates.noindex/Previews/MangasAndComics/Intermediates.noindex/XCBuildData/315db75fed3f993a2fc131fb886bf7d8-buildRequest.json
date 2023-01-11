@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "ff61513fe6b6f040cd9d0002f8cf840d5735505707240c8917cb62385f6a2210"
+    }
+  ],
+  "containerPath" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/MangasAndComics.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Build/Products",
+      "derivedDataPath" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Build/Intermediates.noindex/Previews/MangasAndComics/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "OBJROOT" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Build/Intermediates.noindex/Previews/MangasAndComics/Intermediates.noindex",
+          "SYMROOT" : "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Build/Intermediates.noindex/Previews/MangasAndComics/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

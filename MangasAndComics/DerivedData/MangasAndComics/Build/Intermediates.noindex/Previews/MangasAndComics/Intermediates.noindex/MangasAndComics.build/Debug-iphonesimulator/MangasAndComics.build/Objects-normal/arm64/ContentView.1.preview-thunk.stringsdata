@@ -1,0 +1,12 @@
+{
+  "source": "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/DerivedData/MangasAndComics/Build/Intermediates.noindex/Previews/MangasAndComics/Intermediates.noindex/MangasAndComics.build/Debug-iphonesimulator/MangasAndComics.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
