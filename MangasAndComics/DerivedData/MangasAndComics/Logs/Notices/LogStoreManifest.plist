@@ -6,6 +6,34 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0554B0D6-B710-498A-9753-D3FD6780090D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0554B0D6-B710-498A-9753-D3FD6780090D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYWZvbGx5XC9EZXNrdG9wXC9TUUxJXC9CYWNBU2FibGVcL01hbmdhc19hbmRfY29taWNzXC9NYW5nYXNBbmRDb21pY3NcL01hbmdhc0FuZENvbWljcy54Y29kZXByb2oiLCJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjlEODM4MjYyMjk2RjVBNjAwMDkwNzFCMSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>695164206.12949395</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build MangasAndComics</string>
+			<key>uniqueIdentifier</key>
+			<string>0554B0D6-B710-498A-9753-D3FD6780090D</string>
+		</dict>
 		<key>2929F339-4131-487F-8902-EF883E953557</key>
 		<dict>
 			<key>className</key>
@@ -33,6 +61,34 @@
 			<string>Build for Previews MangasAndComics</string>
 			<key>uniqueIdentifier</key>
 			<string>2929F339-4131-487F-8902-EF883E953557</string>
+		</dict>
+		<key>41EA6C29-581F-49E2-A6DA-E1742BAA0DD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41EA6C29-581F-49E2-A6DA-E1742BAA0DD0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hZm9sbHlcL0Rlc2t0b3BcL1NRTElcL0JhY0FTYWJsZVwvTWFuZ2FzX2FuZF9jb21pY3NcL01hbmdhc0FuZENvbWljc1wvTWFuZ2FzQW5kQ29taWNzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>695164206.12949395</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build MangasAndComics</string>
+			<key>uniqueIdentifier</key>
+			<string>41EA6C29-581F-49E2-A6DA-E1742BAA0DD0</string>
 		</dict>
 		<key>4D67D1CF-DB7B-4A14-80DF-8F6B8C85AC03</key>
 		<dict>
@@ -62,6 +118,62 @@
 			<key>uniqueIdentifier</key>
 			<string>4D67D1CF-DB7B-4A14-80DF-8F6B8C85AC03</string>
 		</dict>
+		<key>7A197252-7156-43B2-818E-49D231F8EBE4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A197252-7156-43B2-818E-49D231F8EBE4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYWZvbGx5XC9EZXNrdG9wXC9TUUxJXC9CYWNBU2FibGVcL01hbmdhc19hbmRfY29taWNzXC9NYW5nYXNBbmRDb21pY3NcL01hbmdhc0FuZENvbWljcy54Y29kZXByb2oiLCJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjlEODM4MjcyMjk2RjVBNjIwMDkwNzFCMSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>695164206.12949395</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build MangasAndComics</string>
+			<key>uniqueIdentifier</key>
+			<string>7A197252-7156-43B2-818E-49D231F8EBE4</string>
+		</dict>
+		<key>BB9B8A06-93A8-417A-9EA8-484C0A6FB7AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB9B8A06-93A8-417A-9EA8-484C0A6FB7AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYWZvbGx5XC9EZXNrdG9wXC9TUUxJXC9CYWNBU2FibGVcL01hbmdhc19hbmRfY29taWNzXC9NYW5nYXNBbmRDb21pY3NcL01hbmdhc0FuZENvbWljcy54Y29kZXByb2oiLCJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjlEODM4MjdDMjk2RjVBNjIwMDkwNzFCMSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>695164206.12949395</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build MangasAndComics</string>
+			<key>uniqueIdentifier</key>
+			<string>BB9B8A06-93A8-417A-9EA8-484C0A6FB7AA</string>
+		</dict>
 		<key>EAEA45F5-B223-4BC4-AABE-B2342554C3E3</key>
 		<dict>
 			<key>className</key>
@@ -89,6 +201,34 @@
 			<string>Build for Previews MangasAndComics</string>
 			<key>uniqueIdentifier</key>
 			<string>EAEA45F5-B223-4BC4-AABE-B2342554C3E3</string>
+		</dict>
+		<key>F75ADE23-C416-42BE-9DAF-2B41B6D3598F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F75ADE23-C416-42BE-9DAF-2B41B6D3598F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>695164206.12949395</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build MangasAndComics</string>
+			<key>uniqueIdentifier</key>
+			<string>F75ADE23-C416-42BE-9DAF-2B41B6D3598F</string>
 		</dict>
 	</dict>
 </dict>

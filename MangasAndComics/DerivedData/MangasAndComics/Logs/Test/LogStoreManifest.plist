@@ -5,6 +5,50 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3BFA1966-1B41-412E-9146-935DB04AEA17</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>519DB6FE-D93E-41D4-B95B-63D52B478E35</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-MangasAndComics-2023.01.11_22-10-06-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MangasAndComics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MangasAndComics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test MangasAndComics</string>
+			<key>timeStartedRecording</key>
+			<real>695164206.12930906</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test MangasAndComics</string>
+			<key>uniqueIdentifier</key>
+			<string>3BFA1966-1B41-412E-9146-935DB04AEA17</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
