@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309762868001-plibhoj5a98oru8bnhc5cng8pi44rblr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309762868001-plibhoj5a98oru8bnhc5cng8pi44rblr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjEdeqZTISXtq_zmwBrdrwaeKG1SrP-Jk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309762868001</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ayite.MangasAndComics</string>
+	<key>PROJECT_ID</key>
+	<string>comicsandmanga-7d6eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>comicsandmanga-7d6eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309762868001:ios:370a3b31275133748af460</string>
+</dict>
+</plist>

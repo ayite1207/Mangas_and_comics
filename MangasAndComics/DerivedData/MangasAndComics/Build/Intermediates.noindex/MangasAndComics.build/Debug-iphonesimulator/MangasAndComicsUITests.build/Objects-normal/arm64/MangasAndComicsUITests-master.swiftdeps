@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
-options: "be87c3b5ddcf4bfe222a94e8cce576161a1c352059ad260d29af509bde469ebe"
-build_start_time: [1673471407, 619843006]
-build_end_time: [1673471408, 544396877]
-inputs:
-  "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/MangasAndComicsUITests/MangasAndComicsUITests.swift": [1673470690, 373516559]
-  ? "/Users/afolly/Desktop/SQLI/BacASable/Mangas_and_comics/MangasAndComics/MangasAndComicsUITests/MangasAndComicsUITestsLaunchTests.swift"
-  : [1673471406, 110174179]
