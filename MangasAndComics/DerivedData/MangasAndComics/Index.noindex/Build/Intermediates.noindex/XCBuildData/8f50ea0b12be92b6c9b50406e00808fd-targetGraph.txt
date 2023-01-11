@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-MangasAndComics in MangasAndComics, no dependencies
-MangasAndComics in MangasAndComics, no dependencies
