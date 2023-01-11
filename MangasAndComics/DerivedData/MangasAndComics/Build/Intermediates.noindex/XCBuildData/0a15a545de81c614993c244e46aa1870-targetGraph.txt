@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+MangasAndComics in MangasAndComics, no dependencies
+MangasAndComicsTests in MangasAndComics, depends on:
+MangasAndComics in MangasAndComics (explicit)
+MangasAndComicsUITests in MangasAndComics, depends on:
+MangasAndComics in MangasAndComics (explicit)
